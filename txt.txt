@@ -1,0 +1,5 @@
+háttérkép
+kulon fajl html css
+2db link
+tablazat (thead tbody)
+5 db kép (circle)
